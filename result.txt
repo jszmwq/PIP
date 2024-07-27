@@ -1,0 +1,162 @@
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+32.27,0.82,697.54,0.07,0.12,0.42,0.13,1293.32,2031
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+18.29,0.62,683.96,0.09,0.1,0.45,0.21,1365.46,2096
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+18.93,148.81,666.93,0.14,1.32,0.43,0.15,1261.44,23401
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+24.15,155.65,4657.16,0.34,0.76,5.41,0.94,1191.4,6194
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+18.79,129.59,694.38,0.15,0.75,0.73,0.2,1196,2262
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+27.08,129.89,4918.61,0.51,2.03,5.6,0.73,1201.9,6499
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+22.2,132.54,837.17,0.07,0.39,0.31,0.1,1206.77,2347
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+34.04,131.6,688.72,0.11,1.03,0.39,0.12,1228.72,2217
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+20.76,178.82,721.72,0.08,0.94,0.32,0.2,1414.63,2492
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+17.67,134.12,607.36,0.31,1.22,0.43,0.12,1343.74,2254
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+19.54,133.05,4250.48,0.13,1.07,0.42,0.19,1401.43,5959
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+17.63,133.4,702.91,0.14,0.85,0.47,0.2,1500.98,2514
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+19.51,140.54,673.81,0.08,2.04,0.38,0.11,1323.17,2307
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+29.86,150.9,4367.69,0.35,1.03,4.92,0.8,1208.03,5959
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+12.73,120.16,596.69,0.07,0.39,0.33,0.17,1364,2237
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+23.35,137.08,687.87,0.21,1.8,0.45,0.14,1347.65,2294
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+18.17,142.72,655.9,0.15,1.32,0.38,0.17,1293.05,2251
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+16.95,135.1,707.11,0.1,0.51,0.41,0.14,1327.33,2338
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+18.27,139.55,620.45,0.17,1.73,0.36,0.13,1271.52,2235
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+31.82,135.72,741.52,0.15,1.67,0.44,0.17,1295.49,2389
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+20.16,130.34,655.52,0.22,1.52,0.4,0.11,1260.42,2255
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+19.63,136.04,653.08,0.18,1.51,0.44,0.25,1275.52,2231
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+21.56,131.83,639.07,0.09,2.06,0.33,0.11,1249.77,2206
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+17.75,136.59,676.21,0.19,1.53,0.45,0.12,1261.37,2254
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+26.43,137.25,710.32,0.14,1.72,0.55,0.18,1455.03,2508
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+17.7,138.89,628.43,0.17,1.96,0.38,0.11,1385.15,2296
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+17.18,163.35,3885.46,0.14,2.06,0.49,0.18,1382.96,5592
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+20.47,137.75,661.36,0.14,1.81,0.38,0.11,1314.91,2267
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+24.43,21.21,633.32,0.15,0.26,0.38,0.12,1295.36,2006
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+12.93,23.33,6541.48,0.39,0.16,3.71,0.63,729.07,7332
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+11.22,132.97,432.77,0.11,0.86,0.37,0.1,869.1,1547
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+19.27,148.53,631.32,0.19,0.57,0.76,0.29,914.01,1856
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+20.22,156.3,561.12,0.13,0.42,0.45,0.15,1071.72,2022
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+25.99,172.85,644.25,0.15,0.79,0.57,0.25,990.36,2015
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+25.32,131.6,487.89,0.08,0.61,0.4,0.17,901.14,1660
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+15.53,19.26,495.81,0.13,0.16,0.39,0.19,930.53,1485
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+16.7,124.88,492.89,0.15,0.92,0.79,0.32,903.08,1641
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+14.49,140.93,504.02,0.19,0.57,3.47,0.26,771.82,1548
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+11.61,126.54,469.76,0.07,0.37,0.27,0.16,850.02,1563
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+23.2,133.89,539.04,0.07,0.44,0.57,0.44,943.93,1746
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+21.68,122.17,33960.4,0.33,0.74,139.15,0.14,574.63,34927
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+11.82,116.34,419.56,0.11,0.59,0.4,0.15,679.02,1331
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+13.94,125.12,421.19,0.06,0.16,0.29,0.19,662.32,1318
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+10.84,122.48,438.48,0.11,0.57,0.39,0.19,647.13,7830
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+14.66,121.28,11286.1,0.34,0.82,8.27,0.31,697.38,14608
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+28.7,128.81,458.56,0.06,0.46,0.36,0.1,683.95,3428
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+11.61,120.48,454.48,0.14,0.6,0.42,0.1,571.37,6881
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+145.62,76.33,417.33,0.16,0.17,0.38,0.1,927.22,3556
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+194900,63.95,403.08,1.23,0.55,0.38,0.09,780.93,200292
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+3534.59,68.79,401.16,1.11,0.35,0.39,0.11,806.8,6177
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+128.8,91.5,419.66,0.82,0.57,0.43,0.09,753.79,3627
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+88.18,99.89,451.31,0.5,0.6,0.37,0.09,860.15,3732
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+10047.5,119.98,408.72,0.19,0.43,0.41,0.13,853.08,12751
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+82.77,132.62,643.84,0.29,0.58,0.43,0.13,945.15,3526
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+65.22,121.95,453.14,0.28,0.68,0.36,0.09,732.28,3406
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+45.75,118.94,438.86,0.42,1.25,0.55,0.11,691.52,137610
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+178.56,125.41,5555.13,0.78,0.26,14.34,1.25,826.47,12885
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+25.6,145.78,434.69,0,0.54,0.08,0.31,557.64,1265
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+161.84,61.99,429.04,0.84,0.6,0.31,0.1,846.6,1602
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+28.22,124.51,448.59,0.1,0.58,0.33,0.12,743.31,1445
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+58.16,125.44,441.66,0.08,0.7,0.36,0.16,681.25,1401
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+10.2,157.34,446.58,0,0.6,0.09,0.25,539.93,1248
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+11.25,145.34,467.62,0,0.6,0.08,0.31,527.96,1256
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+12.28,142.36,424.59,0,0.72,0.08,0.38,546.16,1227
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+44.76,172.7,7832.01,0.31,0.52,7.94,1.08,967.78,9145
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+14.86,1031.64,483.61,0.16,4.62,0.38,0.23,1001.61,3496
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+244.79,1100.38,531.51,1.42,5.99,0.41,0.23,812.26,3991
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+44.67,1083.94,512.35,0.14,4.36,0.44,0.2,724.92,3583
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+35.09,889.38,5310.94,0.08,2.16,1.07,0.45,635.93,7945
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+10.87,801.94,391.36,0.06,3.49,0.36,0.23,662,2782
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+31.77,742.87,406.05,0.09,5.01,0.4,0.1,663.34,2751
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+30.92,1555.32,702.16,0.2,626.29,0.58,0.21,969.89,64853
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+43.57,174.07,734.7,0.16,2031.39,0.5,0.15,948.66,7542
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+29.64,178.02,688.95,0.11,0.53,0.67,0.27,937.28,2018
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+13.41,116.73,459.7,0.09,0.51,0.36,0.13,731.58,1425
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+12.49,125.48,426.54,0.11,0.64,0.43,0.26,798.1,1464
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+15.28,120.84,460.91,0.13,0.63,0.45,0.26,4620.13,5329
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+26.81,122.13,418.49,0.11,0.26,0.33,0.24,680.78,1347
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+28.26,116.08,403.05,0.13,0.54,0.37,0.22,681.36,1334
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+1045.85,57.02,379.95,2.28,0.32,0.27,0.22,819.58,2403
+initPolygons, initPoints, initGL, passPolygons, passPoints, renderPolygons, renderPoints, getResult, totalTime(nIter)
+32.82,113.01,508.01,0.11,0.34,0.31,0.09,754.23,1519

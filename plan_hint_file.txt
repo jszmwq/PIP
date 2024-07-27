@@ -1,0 +1,10 @@
+9
+0 /*+  SeqScan(i3) SeqScan(i2) SeqScan(i1) IndexScan(m idx_mid_score) IndexScan(f idx_final_id) HashJoin(i1 m) HashJoin(i2 i1 m) HashJoin(i3 i2 i1 m) NestLoop(i3 i2 i1 m f) Leading(((i3 (i2 (i1 m))) f)) */
+1 /*+  SeqScan(i1) SeqScan(i2) SeqScan(i3) IndexScan(f idx_final_score) IndexScan(m idx_mid_id) HashJoin(i3 f) HashJoin(i2 i3 f) HashJoin(i1 i2 i3 f) NestLoop(i1 i2 i3 f m) Leading(((i1 (i2 (i3 f))) m)) */
+2 /*+  SeqScan(i3) SeqScan(m) SeqScan(i1) SeqScan(i2) SeqScan(f) HashJoin(i1 i2) HashJoin(m i1 i2) HashJoin(i3 m i1 i2) HashJoin(i3 m i1 i2 f) Leading(((i3 (m (i1 i2))) f)) */
+3 /*+  SeqScan(f) SeqScan(i3) SeqScan(i2) SeqScan(i1) IndexScan(m idx_mid_score) HashJoin(i1 m) HashJoin(i2 i1 m) HashJoin(i3 i2 i1 m) HashJoin(f i3 i2 i1 m) Leading((f (i3 (i2 (i1 m))))) */
+4 /*+  SeqScan(m) SeqScan(i1) SeqScan(i2) SeqScan(i3) IndexScan(f idx_final_score) HashJoin(i3 f) HashJoin(i2 i3 f) HashJoin(i1 i2 i3 f) HashJoin(m i1 i2 i3 f) Leading((m (i1 (i2 (i3 f))))) */
+5 /*+  IndexScan(f idx_final_score) SeqScan(i3) SeqScan(i2) SeqScan(i1) IndexScan(m idx_mid_score) HashJoin(i1 m) HashJoin(i2 i1 m) HashJoin(i3 i2 i1 m) HashJoin(f i3 i2 i1 m) Leading((f (i3 (i2 (i1 m))))) */
+6 /*+  SeqScan(f) SeqScan(i3) SeqScan(i2) SeqScan(i1) SeqScan(m) HashJoin(i1 m) HashJoin(i2 i1 m) HashJoin(i3 i2 i1 m) HashJoin(f i3 i2 i1 m) Leading((f (i3 (i2 (i1 m))))) */
+7 /*+  SeqScan(m) SeqScan(i1) SeqScan(i2) SeqScan(i3) SeqScan(f) HashJoin(i3 f) HashJoin(i2 i3 f) HashJoin(i1 i2 i3 f) HashJoin(m i1 i2 i3 f) Leading((m (i1 (i2 (i3 f))))) */
+8 /*+  IndexScan(m idx_mid_score) SeqScan(i1) SeqScan(i2) SeqScan(i3) IndexScan(f idx_final_score) HashJoin(i3 f) HashJoin(i2 i3 f) HashJoin(i1 i2 i3 f) HashJoin(m i1 i2 i3 f) Leading((m (i1 (i2 (i3 f))))) */
